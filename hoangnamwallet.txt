@@ -1,0 +1,2 @@
+1,BTC,50000,1,BitCoin
+22,GTC,14,72,Gitcoin
